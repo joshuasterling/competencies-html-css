@@ -5,7 +5,11 @@
 }
 
 #page-title {
-  color: blue;
+  color: dodgerblue;
+}
+
+#page-title:hover {
+  color: chartreuse;
 }
 
 .second-title {
