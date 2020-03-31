@@ -1,0 +1,1 @@
+// alert("This alert is to be called on page load showing that JS is in use via a Script tag from the HTML");
